@@ -1,3 +1,3 @@
 # MachineLearning-AndrewNg
 
-Solutions to Machine Learnign course by Andrew Ng
+Solutions to Machine Learnign course by Andrew Ng on coursera.
